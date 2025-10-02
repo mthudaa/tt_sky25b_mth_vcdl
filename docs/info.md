@@ -13,8 +13,8 @@ Voltage COntrolled Delay Line (VCDL) is delay gate that can controlled using vol
 
 ## How to test
 
-Explain how to use your project
+just power up
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+FPGA or MCU
